@@ -1,0 +1,6 @@
+name=Uncensored Bandit Lines
+poster=poster.png
+description=Uncensors text for the Bandits mod
+id=BanditsUncensored
+modversion=1.0
+require=\Bandits
